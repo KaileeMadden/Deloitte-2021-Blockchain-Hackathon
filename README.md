@@ -1,8 +1,5 @@
 ﻿# MAJAK Ethos - Secure Image Verification Blockchain Application
 
-![GitHub repo size](https://img.shields.io/github/repo-size/KaileeMadden/Deloitte-2021-Blockchain-Hackathon)
-
-
 This project is an application that ensure images have not been tampered with by hosting the images in a decentralized file system called IPFS and keeping the images hashes secure in an Ethereum blockchain.
 
 
