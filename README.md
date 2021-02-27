@@ -30,4 +30,5 @@ Before you begin, ensure you have met the following requirements:
 
 * Jessie Salas
 * Aida Pedersen
+* Anu Tennyson
 * Kailee Madden
