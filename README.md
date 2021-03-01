@@ -1,7 +1,7 @@
 ﻿# Secure Image Verification Blockchain Application
 
 This project is an application that ensure images have not been tampered with by hosting the images in a decentralized file system called IPFS and keeping the images hashes secure in an Ethereum blockchain.
-
+* For a quick visual of the secure image feed (cached), navigate to the app-frontend folder and click index.html
 
 ## Prerequisites
 
@@ -12,7 +12,7 @@ Before you begin, ensure you have met the following requirements:
 * You have installed the Truffle framework 
 
 
-## Running the project 
+## Running the project from source
 
 * Fork or download the project from GitHub
 * Navigate to the main folder 'Blockchain Hackathon' in your command line and run 'npm install'
@@ -24,6 +24,7 @@ Before you begin, ensure you have met the following requirements:
 * Select the MetaMask extension and ensure that the network is connected to the Ganache network
 * In the MetaMask extension, use your 'Mnemonic' from Ganache as your 'seed phrase' to import your accounts from Ganache to MetaMask
 * You will need to then refresh your browser so MetaMask can connect to the account of your choice
+* navigate to app-frontend and click on index.html
 
 
 ## Contributors
